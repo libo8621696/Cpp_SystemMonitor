@@ -36,3 +36,9 @@ $ sudo apt-get install libncurses5-dev libncursesw5-dev
 $ g++ -std=c++17 *.cc -lncurses
 $ ./a.out
 ```
+
+
+## Result
+After the compilation and execution, the result is as follows
+![Result](result.png)
+
