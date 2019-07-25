@@ -19,6 +19,13 @@ A good portion of the starter code have also been modified to hopefully achieve 
 
 ## Install Dependencies
 
+Download the solution codes from github
+
+```bash
+git clone https://github.com/libo8621696/Cpp_SystemMonitor.git
+```
+
+
 ```bash
 $ sudo apt-get install libncurses5-dev libncursesw5-dev
 ```
